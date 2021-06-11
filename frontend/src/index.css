@@ -1,0 +1,16 @@
+main {
+  min-height: 80vh;
+}
+
+a {
+  color: #666;
+  text-decoration: none;
+}
+
+h3 {
+  padding: 1rem 0;
+}
+
+.rating span {
+  margin: 0.1rem;
+}
