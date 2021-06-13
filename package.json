@@ -1,6 +1,26 @@
 {
   "dependencies": {
+    "express": "^4.17.1",
     "react-router-bootstrap": "^0.25.0",
     "react-router-dom": "^5.2.0"
-  }
+  },
+  "name": "proshop",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harshit850/ProShop.git"
+  },
+  "keywords": [],
+  "author": "John Doe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harshit850/ProShop/issues"
+  },
+  "homepage": "https://github.com/Harshit850/ProShop#readme",
+  "description": ""
 }
